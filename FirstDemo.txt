@@ -1,1 +1,6 @@
 This is my first upload of a text file using git bash.
+This are the  other changes I have done after commiting and pusing the first version of this file to gitHub.
+
+First check status then do commit and then push.
+
+Note : Type the correctcommands for all the steps above.
