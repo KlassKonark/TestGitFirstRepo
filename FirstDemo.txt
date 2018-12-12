@@ -3,4 +3,6 @@ This are the  other changes I have done after commiting and pusing the first ver
 
 First check status then do commit and then push.
 
+Konark this are the changes done to check the diff command. - 12/12/18- 5:30pm
+
 Note : Type the correctcommands for all the steps above.
